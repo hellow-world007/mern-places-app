@@ -1,0 +1,9 @@
+{
+  "env": {
+    "DB_USER": "joykumar",
+    "DB_PASSWORD": "Googletest",
+    "DB_NAME": "complete-mern-app",
+    "GOOGLE_API_KEY": "AIzaSyD79FRb_mVEE8_0P3LSLN7f8evidDaqgLA",
+    "JWT_KEY": "supersecret_dont_share"
+  }
+}
